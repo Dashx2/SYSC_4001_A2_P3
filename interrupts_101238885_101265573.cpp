@@ -5,7 +5,7 @@
  *
  */
 
-#include<interrupts.hpp>
+#include<interrupts_101238885_101265573.hpp>
 
 
 
@@ -206,7 +206,7 @@ std::tuple<std::string, std::string, int> simulate_trace(std::vector<std::string
             execution += program_exec;
             current_time = program_end_time;
             system_status += program_status;
-            
+            free_memory(&current);
 
             ///////////////////////////////////////////////////////////////////////////////////////////
 

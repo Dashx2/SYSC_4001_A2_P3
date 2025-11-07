@@ -1,0 +1,4 @@
+CPU, 10
+SYSCALL, 4
+ENDIO, 2
+CPU, 25

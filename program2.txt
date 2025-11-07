@@ -1,1 +1,5 @@
-CPU, 80
+CPU, 20
+ENDIO, 2
+CPU, 35
+CPU, 25
+

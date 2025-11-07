@@ -15,39 +15,39 @@
 250, 10, context saved
 260, 1, find vector 3 in memory position 0x0006
 261, 1, load address 0X042B into the PC
-262, 30, program is 10Mb large
-292, 150, loading program into memory
-442, 3, marking partition as occupied
-445, 6, updating PCB
-451, 0, scheduler called
-451, 1, IRET
-452, 120, CPU Burst
-572, 1, switch to kernel mode
-573, 10, context saved
-583, 1, find vector 2 in memory position 0x0004
-584, 1, load address 0X0695 into the PC
-585, 8, cloning the PCB
-593, 0, scheduler called
-593, 1, IRET
-594, 1, switch to kernel mode
-595, 10, context saved
-605, 1, find vector 3 in memory position 0x0006
-606, 1, load address 0X042B into the PC
-607, 20, program is 10Mb large
-627, 150, loading program into memory
-777, 3, marking partition as occupied
-780, 6, updating PCB
-786, 0, scheduler called
-786, 1, IRET
-787, 120, CPU Burst
-907, 1, switch to kernel mode
-908, 10, context saved
-918, 1, find vector 3 in memory position 0x0006
-919, 1, load address 0X042B into the PC
-920, 25, program is 10Mb large
-945, 150, loading program into memory
-1095, 3, marking partition as occupied
-1098, 6, updating PCB
-1104, 0, scheduler called
-1104, 1, IRET
-1105, 120, CPU Burst
+262, 30, program is 12Mb large
+292, 180, loading program into memory
+472, 3, marking partition as occupied
+475, 6, updating PCB
+481, 0, scheduler called
+481, 1, IRET
+482, 120, CPU Burst
+602, 1, switch to kernel mode
+603, 10, context saved
+613, 1, find vector 2 in memory position 0x0004
+614, 1, load address 0X0695 into the PC
+615, 8, cloning the PCB
+623, 0, scheduler called
+623, 1, IRET
+624, 1, switch to kernel mode
+625, 10, context saved
+635, 1, find vector 3 in memory position 0x0006
+636, 1, load address 0X042B into the PC
+637, 20, program is 12Mb large
+657, 180, loading program into memory
+837, 3, marking partition as occupied
+840, 6, updating PCB
+846, 0, scheduler called
+846, 1, IRET
+847, 120, CPU Burst
+967, 1, switch to kernel mode
+968, 10, context saved
+978, 1, find vector 3 in memory position 0x0006
+979, 1, load address 0X042B into the PC
+980, 25, program is 12Mb large
+1005, 180, loading program into memory
+1185, 3, marking partition as occupied
+1188, 6, updating PCB
+1194, 0, scheduler called
+1194, 1, IRET
+1195, 120, CPU Burst

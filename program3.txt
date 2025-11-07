@@ -1,1 +1,5 @@
-CPU, 200
+CPU, 60
+SYSCALL, 5
+ENDIO, 3
+CPU, 50
+
